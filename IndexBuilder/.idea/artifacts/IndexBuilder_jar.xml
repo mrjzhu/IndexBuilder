@@ -1,0 +1,26 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="IndexBuilder:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/IndexBuilder_jar</output-path>
+    <root id="archive" name="IndexBuilder.jar">
+      <element id="module-output" name="IndexBuilder" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/cs504-2/javalib/lucene-core-4.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/cs504-2/javalib/mysql-connector-java-5.1.40-bin.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/cs504-2/javalib/spymemcached-2.12.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/cs504-2/javalib/lucene-suggest-4.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/cs504-2/javalib/lucene-analyzers-common-4.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/cs504-2/javalib/junit-4.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/cs504-2/javalib/servlet-api-3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/cs504-2/javalib/json-20160807.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/cs504-2/javalib/lucene-queryparser-4.0.0.jar" path-in-jar="/" />
+      <element id="file-copy" path="$USER_HOME$/Desktop/cs504-2/javalib/junit-4.12.jar" />
+      <element id="file-copy" path="$USER_HOME$/Desktop/cs504-2/javalib/json-20160807.jar" />
+      <element id="file-copy" path="$USER_HOME$/Desktop/cs504-2/javalib/servlet-api-3.1.jar" />
+      <element id="file-copy" path="$USER_HOME$/Desktop/cs504-2/javalib/lucene-core-4.0.0.jar" />
+      <element id="file-copy" path="$USER_HOME$/Desktop/cs504-2/javalib/spymemcached-2.12.1.jar" />
+      <element id="file-copy" path="$USER_HOME$/Desktop/cs504-2/javalib/lucene-suggest-4.0.0.jar" />
+      <element id="file-copy" path="$USER_HOME$/Desktop/cs504-2/javalib/lucene-queryparser-4.0.0.jar" />
+      <element id="file-copy" path="$USER_HOME$/Desktop/cs504-2/javalib/lucene-analyzers-common-4.0.0.jar" />
+      <element id="file-copy" path="$USER_HOME$/Desktop/cs504-2/javalib/mysql-connector-java-5.1.40-bin.jar" />
+    </root>
+  </artifact>
+</component>
